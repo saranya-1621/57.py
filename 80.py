@@ -1,6 +1,6 @@
-p1=input()
-p1=list(p1)
-for i in p1:
+a1=input()
+a1=list(a1)
+for i in a1:
    i=int(i)
    if(i%2!=0):
       print(i,end=" ")
