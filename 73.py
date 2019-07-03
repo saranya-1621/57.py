@@ -1,7 +1,6 @@
-    
-s=int(input())
-c,a=map(int,input().split())
-if k>c and k<a:
+dev=int(input())
+abc,pro=map(int,input().split())
+if(dev>abc and dev<pro):
    print("yes")
 else:
    print("no")
